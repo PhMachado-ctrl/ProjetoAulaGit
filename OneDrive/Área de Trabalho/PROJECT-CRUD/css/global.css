@@ -1,0 +1,14 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo{
+    color: #0f0feb;
+    text-align: center;
+}
+
+.button{
+    margin: 0;
+}
